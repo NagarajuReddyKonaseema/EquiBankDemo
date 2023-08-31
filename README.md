@@ -1,0 +1,2 @@
+# EquiBankDemo
+Find Prime numbers
